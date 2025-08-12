@@ -33,33 +33,37 @@ def saudacao(nome: str):
 
 Rode com `uvicorn main:app --reload` e acesse `http://localhost:8000/docs` para a documentação interativa automática.
 
-## Parâmetros de query
+## Parâmetros de query e validações
 ```python
 from typing import Optional
-from fastapi import FastAPI
+from fastapi import FastAPI, Query, Path
 
 app = FastAPI()
 
 @app.get("/busca")
-def buscar(q: Optional[str] = None, limite: int = 10):
+def buscar(q: Optional[str] = Query(None, min_length=2, max_length=50), limite: int = Query(10, ge=1, le=100)):
     return {"query": q, "limite": limite}
+
+@app.get("/itens/{item_id}")
+def get_item(item_id: int = Path(..., ge=1)):
+    return {"id": item_id}
 ```
 
 ## Validação com modelos (Pydantic)
 ```python
 from fastapi import FastAPI
-from pydantic import BaseModel, Field
+from pydantic import BaseModel, Field, EmailStr
 
 app = FastAPI()
 
 class Usuario(BaseModel):
     nome: str = Field(..., min_length=2)
-    email: str
-    idade: int | None = None
+    email: EmailStr
+    idade: int | None = Field(default=None, ge=0)
 
-@app.post("/usuarios")
+@app.post("/usuarios", response_model=Usuario, status_code=201)
 def criar_usuario(user: Usuario):
-    return {"ok": True, "dados": user}
+    return user
 ```
 
 ## Exemplo médio: CRUD simples de tarefas
@@ -106,11 +110,73 @@ def remover_tarefa(tarefa_id: UUID):
         raise HTTPException(404, detail="Tarefa não encontrada")
 ```
 
-Teste pelos `docs` em `http://localhost:8000/docs`.
+## Dependências (injeção)
+```python
+from fastapi import Depends
 
-## Dicas
-- Use `response_model` para documentar e validar saídas.
-- Adicione CORS se for consumir do navegador:
+def get_db():
+    # Retorne uma conexão/sessão real na prática
+    return {"conn": "fake"}
+
+@app.get("/status")
+def status(db = Depends(get_db)):
+    return {"ok": True, "db": bool(db)}
+```
+
+## Tarefas em segundo plano
+```python
+from fastapi import BackgroundTasks
+
+@app.post("/processar")
+def processar(background_tasks: BackgroundTasks, dado: str):
+    def tarefa():
+        with open("log.txt", "a", encoding="utf-8") as f:
+            f.write(dado + "\n")
+    background_tasks.add_task(tarefa)
+    return {"agendado": True}
+```
+
+## Routers e organização
+```python
+from fastapi import APIRouter, FastAPI
+
+router = APIRouter(prefix="/v1", tags=["v1"])
+
+@router.get("/ping")
+def ping():
+    return {"pong": True}
+
+app = FastAPI()
+app.include_router(router)
+```
+
+## Middleware simples
+```python
+from fastapi import Request
+
+@app.middleware("http")
+async def log_middleware(request: Request, call_next):
+    response = await call_next(request)
+    response.headers["X-App"] = "MinhaAPI"
+    return response
+```
+
+## Autenticação simples (API Key)
+```python
+from fastapi import Header, HTTPException
+
+API_KEY = "segredo"
+
+async def check_api_key(x_api_key: str = Header(...)):
+    if x_api_key != API_KEY:
+        raise HTTPException(401, detail="API key inválida")
+
+@app.get("/segredo", dependencies=[Depends(check_api_key)])
+async def segredo():
+    return {"ok": True}
+```
+
+## CORS
 ```python
 from fastapi.middleware.cors import CORSMiddleware
 
@@ -122,4 +188,14 @@ app.add_middleware(
     allow_headers=["*"],
 )
 ```
+
+## Dicas
+- Use `response_model` para documentar e validar saídas.
+- Tipos assíncronos (`async def`) escalam melhor IO.
 - Para produção, use `uvicorn`/`gunicorn` e um proxy (Nginx) ou serviços gerenciados.
+- Teste endpoints com `pytest` + `httpx.AsyncClient`.
+
+## Exercícios
+1. Separe seu CRUD em um `APIRouter` e inclua com `include_router`.
+2. Adicione paginação (parâmetros `offset` e `limit`) à lista de tarefas.
+3. Proteja um endpoint com API key via header e retorne 401 quando inválida.

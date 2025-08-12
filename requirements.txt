@@ -6,3 +6,11 @@ seaborn
 scikit-learn
 beautifulsoup4
 selenium
+requests
+lxml
+streamlit
+fastapi
+uvicorn[standard]
+pydantic
+joblib
+numpy
