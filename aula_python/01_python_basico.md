@@ -1,12 +1,5 @@
 # Python Básico para Comunicação
 
-Bem-vinda(o)! Este material foi feito para quem está começando em programação e quer usar Python no dia a dia. O foco é em exemplos práticos e linguagem simples.
-
-## Por que Python?
-- **Fácil de aprender**: sintaxe simples e próxima do português/inglês.
-- **Versátil**: análise de dados, web, automação, visualização, IA.
-- **Comunidade enorme**: muita documentação e exemplos.
-
 ## Como instalar e executar
 - Recomendado: instalar o [Anaconda](https://www.anaconda.com/) ou `miniconda` e criar um ambiente.
 - Alternativa: `pip` e `python3` do seu sistema.
