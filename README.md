@@ -11,6 +11,16 @@ Repositório oficial de materiais e códigos da disciplina de Extração e Anál
 - `bases/`: bases de dados usadas nas aulas (arquivos como `.csv`, `.json`, `.ndjson`, etc.)
 - Outros arquivos auxiliares podem aparecer na raiz (ex.: `requirements.py`, scripts utilitários, etc.)
 
+### Guia de Terminal (VS Code)
+
+Se você está começando no terminal, consulte os guias passo a passo (com foco em Windows PowerShell e alternativas para macOS/Linux):
+
+- [01 — Conceitos básicos do terminal](./aula_terminal/01_conceitos_basicos_terminal.md)
+- [02 — Navegação e manipulação de arquivos](./aula_terminal/02_navegacao_arquivos.md)
+- [03 — Python: venv, pip e execução de scripts (no VS Code)](./aula_terminal/03_python_venv_execucao.md)
+- [04 — Git essencial para o curso (no VS Code)](./aula_terminal/04_git_essencial.md)
+- [05 — Resolução de problemas comuns (no VS Code)](./aula_terminal/05_resolucao_problemas.md)
+
 ### Como clonar este repositório (somente leitura)
 
 Caso você tenha apenas permissão de leitura no repositório:
@@ -133,6 +143,18 @@ Observação: se preferir, você pode baixar o ZIP do repositório da disciplina
 
 Use um ambiente virtual dedicado e instale as dependências listadas. Recomendamos `.venv`.
 
+#### O que é um ambiente virtual (venv)?
+
+- **`venv`** é um ambiente isolado de Python para um projeto específico. Dentro dele ficam as bibliotecas que você instala com `pip`.
+- **Por que usar:**
+  - Evita conflitos de versão entre projetos diferentes no seu computador
+  - Melhora a reprodutibilidade: todos usam as mesmas versões definidas em `requirements.py`
+  - Dispensa permissões de administrador (instala tudo localmente)
+  - Mantém seu sistema organizado, sem “poluir” o Python global
+- **Onde fica:** normalmente em uma pasta chamada `.venv` dentro do projeto. Não é necessário versionar essa pasta.
+
+#### Como criar e ativar o `venv`
+
 macOS/Linux:
 
 ```bash
@@ -153,6 +175,16 @@ pip install --upgrade pip
 pip install -r requirements.py
 ```
 
+Windows (Git Bash):
+
+```bash
+# Dentro do seu repositório (disciplina ou anotações)
+python -m venv .venv
+source .venv/Scripts/activate
+pip install --upgrade pip
+pip install -r requirements.py
+```
+
 Se o PowerShell bloquear a ativação do ambiente, execute uma vez:
 
 ```powershell
@@ -163,6 +195,12 @@ Set-ExecutionPolicy -Scope CurrentUser RemoteSigned -Force
 
 ```bash
 pip install -r requirements.py
+```
+
+Para desativar o ambiente virtual em qualquer sistema, use:
+
+```bash
+deactivate
 ```
 
 ### Como atualizar em casa e na faculdade
