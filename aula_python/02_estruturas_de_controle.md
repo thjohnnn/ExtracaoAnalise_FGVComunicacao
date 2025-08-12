@@ -19,6 +19,13 @@ Condição em uma linha (cuidado com legibilidade):
 status = "aprovado" if numero >= 10 else "reprovado"
 ```
 
+- Curto-circuito: em `A and B`, se `A` for falso, `B` nem é avaliado; em `A or B`, se `A` for verdadeiro, `B` é ignorado.
+- Walrus (`:=`): atribui e avalia ao mesmo tempo, útil para ler entrada/condição:
+```python
+while (linha := input().strip()) != "":
+    print(linha.upper())
+```
+
 ## Repetições: for
 ```python
 plataformas = ["YouTube", "Instagram", "TikTok"]
@@ -30,10 +37,14 @@ for i in range(3):
     print("Tentativa", i)
 ```
 
-Com `enumerate` para ter posição e valor:
+Com `enumerate` e `zip`:
 ```python
 for indice, p in enumerate(plataformas, start=1):
     print(indice, p)
+
+views = [1200, 800, 600]
+for canal, v in zip(plataformas, views):
+    print(canal, v)
 ```
 
 ## Repetições: while
@@ -55,6 +66,16 @@ for n in range(10):
     print(n)
 ```
 
+## Blocos else em loops
+O `else` após `for/while` executa somente se o loop NÃO foi interrompido por `break`.
+```python
+for n in range(3):
+    if n == 10:
+        break
+else:
+    print("Loop terminou sem break")
+```
+
 ## Comprehensions (atalhos para criar listas/dicionários)
 ```python
 # Lista de quadrados
@@ -66,9 +87,12 @@ longas = [p for p in palavras if len(p) > 5]
 
 # Dicionário: palavra -> tamanho
 mapa = {p: len(p) for p in palavras}
+
+# Generator (preguiçoso)
+nums = (n*n for n in range(1_000_000))
 ```
 
-## Tratamento de erros: try / except / finally
+## Tratamento de erros: try / except / else / finally
 ```python
 try:
     x = int(input("Digite um número: "))
@@ -77,11 +101,37 @@ except ValueError:
     print("Por favor, digite um número inteiro válido.")
 except ZeroDivisionError:
     print("Não dá para dividir por zero!")
+else:
+    print("Sem erros!")
 finally:
     print("Fim do programa.")
+```
+
+Levantar exceções e criar suas próprias:
+```python
+class ErroDeNegocio(Exception):
+    pass
+
+def processar(valor: int) -> None:
+    if valor < 0:
+        raise ErroDeNegocio("Valor não pode ser negativo")
+```
+
+## Gerenciadores de contexto (with)
+```python
+from contextlib import suppress
+
+with open("arquivo.txt", "w", encoding="utf-8") as f:
+    f.write("ok")
+
+# Suprimir erro específico
+with suppress(FileNotFoundError):
+    open("nao_existe.txt").read()
 ```
 
 ## Dicas
 - Prefira `for` quando souber o tamanho da sequência.
 - Use `while` para repetir até uma condição mudar.
 - Trate erros previsíveis para melhorar a experiência do usuário.
+- Evite `except:` genérico; capture apenas o que espera.
+- Simplifique condicionais complexas extraindo funções ou variáveis descritivas.
