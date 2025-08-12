@@ -2,6 +2,8 @@
 
 Repositório oficial de materiais e códigos da disciplina de Extração e Análise de Dados (FGV Comunicação Rio). Aqui você encontrará o conteúdo organizado por aula e as bases de dados utilizadas durante o curso.
 
+- Repositório original: `https://github.com/mateuspestana/ExtracaoAnalise_FGVComunicacao`
+
 ### Estrutura do repositório
 
 - `aula_XX/`: pasta de cada aula, com códigos, notebooks e materiais de suporte
@@ -14,11 +16,13 @@ Repositório oficial de materiais e códigos da disciplina de Extração e Anál
 Caso você tenha apenas permissão de leitura no repositório:
 
 ```bash
-git clone <URL_DO_REPOSITORIO_ORIGINAL>
-cd LabExtracaoAnalise2025
+git clone https://github.com/mateuspestana/ExtracaoAnalise_FGVComunicacao
+cd ExtracaoAnalise_FGVComunicacao
 ```
 
-Substitua `<URL_DO_REPOSITORIO_ORIGINAL>` pela URL HTTPS do repositório.
+Repositório original: `https://github.com/mateuspestana/ExtracaoAnalise_FGVComunicacao`
+
+Observação: os comandos `git` são os mesmos em macOS, Linux e Windows. No Windows, você pode usar o PowerShell ou o Git Bash (instalado com o Git for Windows).
 
 ### Como obter atualizações do professor
 
@@ -38,13 +42,19 @@ O fork permite que você tenha um repositório próprio no seu GitHub para anota
 
 ```bash
 git clone <URL_DO_SEU_FORK>
-cd LabExtracaoAnalise2025
+cd ExtracaoAnalise_FGVComunicacao
+```
+
+Exemplo de URL do seu fork:
+
+```text
+https://github.com/SEU_USUARIO/ExtracaoAnalise_FGVComunicacao
 ```
 
 3) Configure o remoto `upstream` para acompanhar o repositório do professor:
 
 ```bash
-git remote add upstream <URL_DO_REPOSITORIO_ORIGINAL>
+git remote add upstream https://github.com/mateuspestana/ExtracaoAnalise_FGVComunicacao
 git remote -v
 ```
 
@@ -69,6 +79,11 @@ git push -u origin minhas-anotacoes-aula04
 
 Observação: você não precisa abrir Pull Request para o repositório do professor. O fork funciona como seu caderno de estudos.
 
+#### Conceitos rápidos: Fork e Upstream
+
+- **Fork**: é uma cópia do repositório do professor na sua conta do GitHub. Você tem controle total sobre esse repositório (o seu), pode criar branches, commits e enviar para o seu remoto (`origin`). O fork não altera o repositório original.
+- **Upstream**: é um apelido (remoto Git) que aponta para o repositório original do professor. Usamos `upstream` para buscar as novidades do professor e trazê-las para o seu repositório local/fork. Em resumo: `origin` = seu fork; `upstream` = repositório do professor.
+
 ### Como criar seu repositório de anotações (sem alterar o original)
 
 Opção alternativa (mais simples): para evitar qualquer alteração neste repositório, mantenha suas anotações em um repositório próprio de uso pessoal. Fluxo sugerido:
@@ -89,10 +104,18 @@ git init
 git branch -M main
 ```
 
-3) Copie os arquivos do repositório da disciplina para o seu repositório de anotações, sem mover nem apagar nada no original. No macOS:
+3) Copie os arquivos do repositório da disciplina para o seu repositório de anotações, sem mover nem apagar nada no original.
+
+macOS/Linux:
 
 ```bash
 rsync -av --exclude='.git' --exclude='.venv' /caminho/para/LabExtracaoAnalise2025/ .
+```
+
+Windows (PowerShell):
+
+```powershell
+robocopy "C:\caminho\LabExtracaoAnalise2025" "." /E /XD .git .venv
 ```
 
 4) Faça seu primeiro commit no repositório de anotações:
