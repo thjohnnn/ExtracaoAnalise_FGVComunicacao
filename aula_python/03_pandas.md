@@ -4,7 +4,7 @@ Pandas é a biblioteca mais popular de Python para trabalhar com dados em format
 
 ## Instalação
 ```bash
-pip install pandas
+pip install pandas numpy
 ```
 
 ## Conceitos básicos
@@ -16,6 +16,7 @@ pip install pandas
 ## Criando dados
 ```python
 import pandas as pd
+import numpy as np
 
 # Series
 s = pd.Series([10, 20, 30], name="vendas")
