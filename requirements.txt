@@ -7,3 +7,11 @@ scikit-learn
 beautifulsoup4
 selenium
 wordcloud
+requests
+lxml
+streamlit
+fastapi
+uvicorn[standard]
+pydantic
+joblib
+numpy
