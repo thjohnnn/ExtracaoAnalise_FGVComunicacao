@@ -1,0 +1,501 @@
+Idade,Gênero,EstadoCivil,Escolaridade,RendaMensal,TempoNoSite(min),VisitasMensais,ValorMedioCompra,CategoriaFavorita,Dispositivo
+56,Feminino,Casado,Pós-graduação,5 a 10 mil,8.68,5,100,Alimentos,Mobile
+69,Feminino,Divorciado,Médio,2 a 5 mil,15.51,4,200,Eletrônicos,Mobile
+46,Feminino,Solteiro,Médio,Até 2 mil,8.61,5,1000,Eletrônicos,Tablet
+32,Feminino,Solteiro,Superior,Acima de 20 mil,0.01,8,200,Casa,Desktop
+60,Masculino,Casado,Superior,5 a 10 mil,5.06,4,300,Alimentos,Mobile
+25,Masculino,Casado,Médio,2 a 5 mil,0.26,2,100,Alimentos,Tablet
+38,Masculino,Solteiro,Superior,Acima de 20 mil,1.49,1,300,Moda,Tablet
+56,Feminino,Casado,Superior,5 a 10 mil,0.31,8,200,Casa,Desktop
+36,Masculino,Solteiro,Médio,2 a 5 mil,4.63,8,500,Eletrônicos,Desktop
+40,Masculino,Solteiro,Pós-graduação,5 a 10 mil,5.8,4,100,Eletrônicos,Mobile
+28,Masculino,Casado,Pós-graduação,10 a 20 mil,0.61,1,200,Alimentos,Desktop
+28,Masculino,Casado,Superior,5 a 10 mil,2.42,9,200,Moda,Tablet
+41,Feminino,Divorciado,Médio,Até 2 mil,3.05,4,100,Moda,Tablet
+53,Feminino,Solteiro,Superior,2 a 5 mil,2.3,2,50,Casa,Desktop
+57,Masculino,Casado,Fundamental,10 a 20 mil,0.64,4,50,Casa,Desktop
+41,Masculino,Casado,Fundamental,Até 2 mil,2.71,3,50,Esportes,Desktop
+20,Feminino,Solteiro,Médio,2 a 5 mil,6.96,8,500,Moda,Tablet
+39,Masculino,Casado,Médio,2 a 5 mil,0.37,9,100,Eletrônicos,Desktop
+19,Masculino,Solteiro,Pós-graduação,2 a 5 mil,0.42,4,100,Moda,Mobile
+41,Masculino,Viúvo,Superior,5 a 10 mil,2.19,4,300,Livros,Mobile
+61,Masculino,Solteiro,Superior,10 a 20 mil,14.21,5,100,Alimentos,Mobile
+47,Feminino,Casado,Médio,Até 2 mil,5.52,11,200,Casa,Desktop
+55,Feminino,Solteiro,Médio,Até 2 mil,5.68,8,50,Eletrônicos,Desktop
+19,Masculino,Viúvo,Médio,Até 2 mil,2.25,6,1000,Alimentos,Tablet
+38,Masculino,Casado,Pós-graduação,10 a 20 mil,4.5,2,500,Eletrônicos,Tablet
+50,Feminino,Casado,Fundamental,5 a 10 mil,0.05,8,500,Alimentos,Mobile
+29,Feminino,Solteiro,Pós-graduação,2 a 5 mil,5.05,7,100,Livros,Desktop
+39,Feminino,Casado,Superior,10 a 20 mil,12.23,6,300,Livros,Desktop
+61,Feminino,Solteiro,Médio,10 a 20 mil,4.74,5,50,Alimentos,Mobile
+42,Masculino,Divorciado,Superior,10 a 20 mil,10.35,3,50,Alimentos,Desktop
+66,Masculino,Solteiro,Médio,10 a 20 mil,6.44,5,50,Livros,Tablet
+44,Feminino,Solteiro,Pós-graduação,2 a 5 mil,0.64,3,200,Casa,Mobile
+59,Masculino,Solteiro,Pós-graduação,5 a 10 mil,11.64,3,200,Eletrônicos,Desktop
+45,Feminino,Casado,Médio,2 a 5 mil,0.34,7,200,Alimentos,Tablet
+33,Feminino,Casado,Médio,10 a 20 mil,3.82,4,50,Moda,Tablet
+32,Feminino,Solteiro,Superior,5 a 10 mil,0.77,4,100,Alimentos,Desktop
+64,Masculino,Casado,Pós-graduação,5 a 10 mil,0.06,6,300,Alimentos,Mobile
+68,Feminino,Casado,Médio,5 a 10 mil,2.74,6,100,Alimentos,Desktop
+61,Masculino,Casado,Superior,Até 2 mil,1.75,3,300,Moda,Desktop
+69,Feminino,Casado,Superior,2 a 5 mil,3.33,4,100,Eletrônicos,Desktop
+20,Feminino,Casado,Superior,Acima de 20 mil,4.3,6,300,Alimentos,Mobile
+54,Masculino,Casado,Fundamental,10 a 20 mil,0.22,6,200,Esportes,Tablet
+68,Outro,Solteiro,Superior,Até 2 mil,0.66,6,100,Casa,Mobile
+24,Feminino,Solteiro,Pós-graduação,Até 2 mil,4.09,6,100,Moda,Desktop
+38,Masculino,Divorciado,Médio,Até 2 mil,2.1,3,200,Livros,Mobile
+26,Masculino,Divorciado,Médio,5 a 10 mil,6.53,5,300,Livros,Desktop
+56,Masculino,Solteiro,Pós-graduação,10 a 20 mil,5.28,2,100,Moda,Mobile
+35,Masculino,Solteiro,Médio,Até 2 mil,9.34,5,100,Eletrônicos,Mobile
+21,Masculino,Casado,Pós-graduação,2 a 5 mil,5.9,3,500,Casa,Desktop
+42,Feminino,Casado,Médio,10 a 20 mil,2.81,3,200,Esportes,Desktop
+31,Masculino,Solteiro,Médio,5 a 10 mil,5.59,5,100,Livros,Mobile
+67,Masculino,Solteiro,Pós-graduação,2 a 5 mil,1.61,11,200,Esportes,Desktop
+26,Feminino,Casado,Médio,2 a 5 mil,1.83,7,100,Casa,Mobile
+43,Masculino,Casado,Superior,2 a 5 mil,7.78,7,200,Alimentos,Desktop
+19,Feminino,Solteiro,Médio,2 a 5 mil,2.96,4,100,Eletrônicos,Desktop
+37,Masculino,Solteiro,Superior,2 a 5 mil,8.01,1,1000,Moda,Mobile
+45,Masculino,Solteiro,Médio,5 a 10 mil,8.64,4,200,Alimentos,Tablet
+64,Feminino,Casado,Médio,10 a 20 mil,9.74,5,200,Casa,Tablet
+24,Feminino,Solteiro,Pós-graduação,5 a 10 mil,12.42,4,200,Alimentos,Desktop
+61,Feminino,Solteiro,Médio,5 a 10 mil,2.82,4,500,Casa,Desktop
+25,Feminino,Casado,Superior,Até 2 mil,1.92,7,300,Moda,Desktop
+64,Feminino,Solteiro,Médio,2 a 5 mil,4.36,6,200,Alimentos,Mobile
+52,Masculino,Casado,Superior,Até 2 mil,2.32,8,300,Eletrônicos,Mobile
+31,Masculino,Solteiro,Fundamental,Até 2 mil,4.59,4,200,Moda,Tablet
+34,Feminino,Solteiro,Pós-graduação,5 a 10 mil,6.11,3,200,Esportes,Tablet
+53,Feminino,Solteiro,Médio,Acima de 20 mil,5.83,0,50,Casa,Desktop
+67,Outro,Casado,Médio,Até 2 mil,2.35,4,200,Livros,Mobile
+57,Masculino,Divorciado,Fundamental,2 a 5 mil,0.91,1,100,Moda,Mobile
+21,Masculino,Casado,Médio,10 a 20 mil,2.82,4,500,Alimentos,Mobile
+19,Feminino,Solteiro,Superior,Até 2 mil,0.77,3,100,Moda,Desktop
+23,Masculino,Casado,Médio,2 a 5 mil,11.04,5,1000,Moda,Desktop
+59,Feminino,Solteiro,Superior,5 a 10 mil,2.12,6,200,Esportes,Mobile
+21,Feminino,Solteiro,Médio,5 a 10 mil,0.84,6,200,Casa,Desktop
+46,Masculino,Divorciado,Médio,Até 2 mil,0.13,4,200,Esportes,Desktop
+35,Feminino,Solteiro,Superior,2 a 5 mil,5.19,4,50,Moda,Desktop
+43,Feminino,Solteiro,Superior,5 a 10 mil,5.07,5,100,Esportes,Mobile
+61,Masculino,Solteiro,Médio,2 a 5 mil,2.08,1,50,Eletrônicos,Desktop
+51,Feminino,Solteiro,Médio,Até 2 mil,0.37,9,200,Esportes,Desktop
+27,Feminino,Solteiro,Fundamental,5 a 10 mil,2.64,7,100,Moda,Desktop
+53,Feminino,Casado,Superior,Até 2 mil,1.86,5,300,Moda,Mobile
+31,Masculino,Casado,Superior,5 a 10 mil,5.65,4,100,Alimentos,Mobile
+48,Feminino,Divorciado,Médio,Até 2 mil,4.65,5,50,Livros,Mobile
+65,Masculino,Casado,Superior,Acima de 20 mil,2.27,4,100,Eletrônicos,Mobile
+32,Masculino,Solteiro,Superior,2 a 5 mil,1.23,1,500,Moda,Tablet
+25,Feminino,Solteiro,Superior,2 a 5 mil,22.13,3,300,Esportes,Desktop
+31,Masculino,Solteiro,Pós-graduação,Até 2 mil,3.03,7,100,Moda,Desktop
+40,Masculino,Casado,Médio,2 a 5 mil,5.83,6,200,Eletrônicos,Desktop
+57,Feminino,Solteiro,Fundamental,10 a 20 mil,0.76,10,50,Moda,Desktop
+38,Feminino,Casado,Médio,Acima de 20 mil,3.32,4,1000,Moda,Desktop
+33,Feminino,Casado,Fundamental,2 a 5 mil,0.14,5,200,Livros,Tablet
+62,Feminino,Casado,Superior,2 a 5 mil,3.52,6,100,Esportes,Mobile
+35,Masculino,Casado,Pós-graduação,5 a 10 mil,16.62,6,200,Alimentos,Mobile
+64,Masculino,Solteiro,Fundamental,10 a 20 mil,2.42,8,50,Livros,Tablet
+41,Masculino,Divorciado,Fundamental,2 a 5 mil,0.2,4,1000,Alimentos,Desktop
+43,Feminino,Casado,Médio,2 a 5 mil,0.16,3,50,Eletrônicos,Desktop
+42,Feminino,Solteiro,Pós-graduação,2 a 5 mil,2.46,3,200,Moda,Mobile
+62,Feminino,Divorciado,Médio,5 a 10 mil,0.87,9,100,Moda,Mobile
+58,Feminino,Casado,Superior,Até 2 mil,0.12,7,300,Eletrônicos,Desktop
+46,Masculino,Divorciado,Fundamental,5 a 10 mil,7.06,2,300,Livros,Mobile
+32,Feminino,Casado,Fundamental,2 a 5 mil,3.07,2,200,Esportes,Mobile
+62,Masculino,Casado,Pós-graduação,5 a 10 mil,1.71,4,200,Moda,Mobile
+18,Feminino,Solteiro,Pós-graduação,Até 2 mil,11.52,6,500,Alimentos,Mobile
+42,Masculino,Solteiro,Fundamental,2 a 5 mil,0.62,9,50,Casa,Desktop
+24,Feminino,Casado,Pós-graduação,2 a 5 mil,15.61,11,100,Livros,Desktop
+26,Masculino,Casado,Superior,5 a 10 mil,1.88,4,100,Esportes,Mobile
+41,Masculino,Solteiro,Pós-graduação,Até 2 mil,10.96,7,1000,Alimentos,Desktop
+18,Masculino,Solteiro,Médio,2 a 5 mil,4.62,7,100,Esportes,Tablet
+61,Feminino,Casado,Superior,2 a 5 mil,8.76,3,300,Alimentos,Mobile
+25,Feminino,Viúvo,Médio,2 a 5 mil,20.68,7,200,Alimentos,Desktop
+41,Masculino,Casado,Superior,5 a 10 mil,1.7,5,100,Eletrônicos,Mobile
+28,Masculino,Solteiro,Fundamental,5 a 10 mil,16.24,2,100,Eletrônicos,Mobile
+68,Feminino,Solteiro,Fundamental,10 a 20 mil,2.47,9,100,Alimentos,Desktop
+34,Masculino,Solteiro,Médio,2 a 5 mil,2.43,6,100,Moda,Mobile
+25,Feminino,Divorciado,Superior,10 a 20 mil,2.08,3,100,Eletrônicos,Mobile
+52,Feminino,Solteiro,Médio,2 a 5 mil,3.9,6,50,Casa,Mobile
+52,Masculino,Casado,Superior,Até 2 mil,0.84,3,500,Eletrônicos,Desktop
+50,Masculino,Solteiro,Pós-graduação,Até 2 mil,4.03,2,1000,Alimentos,Mobile
+22,Outro,Casado,Fundamental,2 a 5 mil,3.9,8,100,Alimentos,Mobile
+59,Masculino,Casado,Superior,5 a 10 mil,7.18,4,100,Livros,Desktop
+56,Masculino,Casado,Médio,5 a 10 mil,8.97,5,50,Alimentos,Desktop
+58,Feminino,Solteiro,Pós-graduação,5 a 10 mil,2.9,4,200,Eletrônicos,Mobile
+45,Feminino,Solteiro,Médio,2 a 5 mil,1.8,3,300,Alimentos,Desktop
+24,Outro,Solteiro,Superior,2 a 5 mil,1.5,4,50,Esportes,Mobile
+26,Feminino,Divorciado,Superior,Até 2 mil,1.08,3,50,Livros,Mobile
+25,Masculino,Divorciado,Pós-graduação,2 a 5 mil,0.3,11,300,Moda,Mobile
+29,Masculino,Casado,Superior,2 a 5 mil,2.1,6,200,Moda,Desktop
+51,Feminino,Casado,Médio,Até 2 mil,1.58,5,50,Livros,Mobile
+50,Feminino,Casado,Superior,Até 2 mil,16.97,5,200,Eletrônicos,Desktop
+65,Masculino,Solteiro,Pós-graduação,2 a 5 mil,4.08,5,100,Casa,Mobile
+40,Feminino,Divorciado,Superior,5 a 10 mil,2.13,3,100,Moda,Mobile
+41,Masculino,Casado,Fundamental,Acima de 20 mil,4.34,6,300,Eletrônicos,Mobile
+54,Feminino,Solteiro,Pós-graduação,10 a 20 mil,0.75,4,300,Moda,Tablet
+52,Masculino,Casado,Superior,5 a 10 mil,2.94,5,100,Moda,Mobile
+61,Masculino,Solteiro,Superior,2 a 5 mil,4.92,3,500,Casa,Desktop
+57,Masculino,Solteiro,Médio,5 a 10 mil,3.36,7,100,Livros,Tablet
+39,Masculino,Casado,Superior,5 a 10 mil,2.57,3,300,Moda,Mobile
+44,Masculino,Solteiro,Médio,Até 2 mil,25.46,6,200,Esportes,Desktop
+52,Feminino,Casado,Superior,2 a 5 mil,10.61,7,500,Eletrônicos,Desktop
+18,Feminino,Solteiro,Fundamental,10 a 20 mil,4.88,1,500,Alimentos,Mobile
+52,Feminino,Solteiro,Superior,2 a 5 mil,4.21,6,50,Eletrônicos,Desktop
+54,Outro,Solteiro,Pós-graduação,2 a 5 mil,4.85,4,500,Livros,Mobile
+64,Masculino,Solteiro,Fundamental,2 a 5 mil,1.12,2,300,Esportes,Mobile
+31,Masculino,Casado,Pós-graduação,Até 2 mil,2.51,2,300,Casa,Desktop
+20,Feminino,Solteiro,Médio,2 a 5 mil,0.2,5,100,Esportes,Mobile
+18,Masculino,Casado,Pós-graduação,2 a 5 mil,3.23,5,300,Casa,Desktop
+22,Outro,Casado,Superior,Até 2 mil,3.92,3,500,Livros,Mobile
+43,Masculino,Casado,Superior,Até 2 mil,1.29,5,100,Casa,Mobile
+31,Outro,Divorciado,Superior,10 a 20 mil,16.63,11,1000,Livros,Mobile
+56,Masculino,Casado,Pós-graduação,2 a 5 mil,12.01,2,50,Alimentos,Mobile
+44,Feminino,Solteiro,Médio,2 a 5 mil,6.4,6,50,Eletrônicos,Mobile
+26,Feminino,Solteiro,Médio,2 a 5 mil,3.81,5,200,Alimentos,Mobile
+32,Outro,Solteiro,Superior,10 a 20 mil,10.2,3,200,Eletrônicos,Desktop
+32,Masculino,Casado,Superior,2 a 5 mil,0.7,4,200,Alimentos,Desktop
+43,Feminino,Solteiro,Superior,2 a 5 mil,7.82,10,50,Alimentos,Mobile
+59,Outro,Casado,Superior,10 a 20 mil,0.67,1,1000,Casa,Tablet
+30,Feminino,Casado,Médio,10 a 20 mil,7.9,8,50,Eletrônicos,Mobile
+68,Feminino,Solteiro,Superior,Até 2 mil,1.61,3,50,Eletrônicos,Mobile
+49,Feminino,Casado,Fundamental,10 a 20 mil,10.48,5,50,Alimentos,Desktop
+56,Masculino,Solteiro,Superior,2 a 5 mil,14.42,4,200,Livros,Mobile
+66,Feminino,Solteiro,Fundamental,2 a 5 mil,0.81,11,500,Moda,Mobile
+69,Feminino,Casado,Médio,Até 2 mil,3.11,3,200,Moda,Desktop
+49,Feminino,Casado,Médio,Até 2 mil,19.81,4,300,Casa,Desktop
+21,Masculino,Casado,Médio,5 a 10 mil,3.3,3,50,Casa,Tablet
+47,Masculino,Casado,Superior,2 a 5 mil,9.96,3,200,Moda,Desktop
+54,Feminino,Solteiro,Médio,2 a 5 mil,4.44,8,200,Moda,Desktop
+40,Feminino,Casado,Médio,5 a 10 mil,2.35,1,200,Moda,Desktop
+56,Masculino,Casado,Médio,5 a 10 mil,1.68,5,50,Livros,Tablet
+62,Feminino,Casado,Médio,Até 2 mil,1.14,7,200,Eletrônicos,Mobile
+32,Masculino,Solteiro,Médio,5 a 10 mil,7.17,3,200,Moda,Mobile
+60,Masculino,Casado,Fundamental,Até 2 mil,2.44,7,300,Eletrônicos,Tablet
+46,Masculino,Solteiro,Superior,5 a 10 mil,3.58,5,200,Moda,Desktop
+53,Masculino,Solteiro,Superior,5 a 10 mil,3.39,7,50,Esportes,Mobile
+30,Feminino,Divorciado,Superior,Acima de 20 mil,4.31,5,200,Moda,Desktop
+49,Masculino,Solteiro,Médio,Até 2 mil,10.03,7,50,Eletrônicos,Desktop
+24,Outro,Viúvo,Médio,Até 2 mil,19.75,5,500,Alimentos,Mobile
+68,Outro,Casado,Pós-graduação,2 a 5 mil,2.62,4,200,Eletrônicos,Mobile
+39,Feminino,Solteiro,Superior,2 a 5 mil,8.79,5,50,Eletrônicos,Desktop
+45,Feminino,Casado,Médio,Até 2 mil,7.23,11,1000,Esportes,Desktop
+19,Masculino,Divorciado,Fundamental,10 a 20 mil,4.26,7,200,Esportes,Mobile
+59,Feminino,Casado,Médio,Até 2 mil,15.62,6,50,Livros,Desktop
+62,Feminino,Casado,Médio,2 a 5 mil,1.12,3,200,Esportes,Desktop
+23,Masculino,Casado,Médio,5 a 10 mil,0.58,0,100,Casa,Desktop
+45,Feminino,Casado,Superior,2 a 5 mil,9.62,10,300,Eletrônicos,Desktop
+45,Feminino,Casado,Superior,5 a 10 mil,2.89,5,300,Esportes,Mobile
+61,Feminino,Solteiro,Superior,Até 2 mil,9.39,5,1000,Esportes,Desktop
+61,Feminino,Casado,Superior,2 a 5 mil,11.18,3,200,Esportes,Desktop
+37,Feminino,Solteiro,Superior,Até 2 mil,0.32,4,200,Alimentos,Mobile
+47,Masculino,Viúvo,Superior,Até 2 mil,10.75,2,300,Moda,Mobile
+28,Feminino,Divorciado,Pós-graduação,10 a 20 mil,2.97,2,50,Esportes,Desktop
+45,Feminino,Solteiro,Fundamental,Até 2 mil,3.57,7,200,Casa,Desktop
+42,Masculino,Casado,Médio,2 a 5 mil,4.93,3,200,Livros,Desktop
+56,Masculino,Divorciado,Fundamental,2 a 5 mil,13.04,1,50,Eletrônicos,Mobile
+50,Masculino,Solteiro,Superior,2 a 5 mil,0.1,3,100,Moda,Mobile
+18,Feminino,Casado,Pós-graduação,10 a 20 mil,3.24,7,500,Moda,Mobile
+44,Outro,Divorciado,Médio,Até 2 mil,5.82,5,500,Esportes,Tablet
+69,Masculino,Solteiro,Pós-graduação,5 a 10 mil,6.41,5,50,Eletrônicos,Mobile
+30,Feminino,Casado,Fundamental,Acima de 20 mil,5.9,4,50,Eletrônicos,Mobile
+58,Masculino,Solteiro,Pós-graduação,2 a 5 mil,0.72,5,100,Livros,Mobile
+20,Outro,Divorciado,Médio,10 a 20 mil,1.78,5,500,Eletrônicos,Desktop
+56,Feminino,Viúvo,Fundamental,Até 2 mil,2.22,3,50,Esportes,Tablet
+23,Feminino,Divorciado,Médio,2 a 5 mil,8.16,3,300,Moda,Desktop
+25,Masculino,Casado,Médio,2 a 5 mil,1.63,6,50,Esportes,Desktop
+44,Masculino,Divorciado,Médio,5 a 10 mil,1.18,6,200,Alimentos,Mobile
+26,Masculino,Casado,Médio,Acima de 20 mil,15.79,4,100,Livros,Desktop
+54,Masculino,Solteiro,Superior,2 a 5 mil,0.04,9,300,Livros,Mobile
+50,Feminino,Casado,Superior,5 a 10 mil,30.64,6,100,Eletrônicos,Mobile
+68,Feminino,Solteiro,Médio,Até 2 mil,5.65,5,200,Eletrônicos,Mobile
+59,Outro,Casado,Superior,2 a 5 mil,8.81,5,100,Moda,Mobile
+61,Outro,Solteiro,Superior,2 a 5 mil,1.75,4,300,Casa,Desktop
+41,Feminino,Solteiro,Médio,Acima de 20 mil,0.07,10,500,Esportes,Mobile
+32,Feminino,Solteiro,Médio,5 a 10 mil,6.69,6,50,Alimentos,Mobile
+49,Feminino,Casado,Fundamental,2 a 5 mil,8.98,2,500,Casa,Mobile
+49,Feminino,Solteiro,Médio,Até 2 mil,6.74,4,200,Eletrônicos,Mobile
+41,Masculino,Casado,Superior,Até 2 mil,0.77,3,50,Esportes,Desktop
+58,Masculino,Solteiro,Médio,Até 2 mil,7.0,2,100,Livros,Mobile
+69,Masculino,Solteiro,Superior,2 a 5 mil,7.33,5,50,Moda,Desktop
+66,Feminino,Casado,Superior,10 a 20 mil,5.37,6,300,Alimentos,Tablet
+66,Feminino,Casado,Fundamental,2 a 5 mil,7.26,5,300,Eletrônicos,Desktop
+69,Masculino,Solteiro,Superior,2 a 5 mil,9.35,10,50,Alimentos,Mobile
+29,Feminino,Casado,Médio,Até 2 mil,4.75,5,200,Alimentos,Desktop
+56,Feminino,Divorciado,Pós-graduação,10 a 20 mil,0.46,5,300,Eletrônicos,Desktop
+19,Masculino,Casado,Médio,5 a 10 mil,3.34,4,500,Moda,Mobile
+20,Masculino,Solteiro,Superior,Até 2 mil,0.4,4,200,Moda,Mobile
+66,Feminino,Solteiro,Superior,5 a 10 mil,2.62,3,1000,Alimentos,Mobile
+54,Feminino,Divorciado,Fundamental,2 a 5 mil,2.61,6,200,Alimentos,Tablet
+66,Feminino,Solteiro,Superior,Até 2 mil,0.34,4,100,Eletrônicos,Mobile
+34,Feminino,Divorciado,Pós-graduação,2 a 5 mil,2.14,2,300,Esportes,Mobile
+66,Feminino,Casado,Superior,2 a 5 mil,0.59,9,200,Casa,Desktop
+19,Feminino,Divorciado,Superior,Até 2 mil,8.26,5,200,Moda,Mobile
+19,Feminino,Casado,Pós-graduação,10 a 20 mil,14.75,9,200,Eletrônicos,Desktop
+45,Feminino,Viúvo,Médio,10 a 20 mil,0.38,5,300,Esportes,Mobile
+40,Masculino,Solteiro,Médio,5 a 10 mil,15.52,5,300,Livros,Tablet
+54,Masculino,Casado,Superior,2 a 5 mil,3.7,1,100,Moda,Tablet
+49,Masculino,Casado,Médio,2 a 5 mil,1.78,5,100,Moda,Mobile
+50,Feminino,Casado,Superior,5 a 10 mil,0.4,8,200,Eletrônicos,Mobile
+18,Feminino,Casado,Pós-graduação,2 a 5 mil,3.47,6,200,Alimentos,Mobile
+36,Feminino,Divorciado,Médio,Até 2 mil,7.91,2,100,Eletrônicos,Desktop
+19,Masculino,Viúvo,Médio,2 a 5 mil,6.14,5,300,Moda,Mobile
+61,Masculino,Casado,Superior,10 a 20 mil,0.26,5,200,Casa,Desktop
+43,Masculino,Casado,Médio,2 a 5 mil,0.38,4,100,Alimentos,Mobile
+49,Masculino,Casado,Superior,Até 2 mil,2.58,6,50,Moda,Desktop
+23,Feminino,Casado,Médio,5 a 10 mil,1.75,5,100,Moda,Desktop
+49,Masculino,Solteiro,Superior,Até 2 mil,1.32,6,500,Alimentos,Desktop
+21,Masculino,Solteiro,Fundamental,2 a 5 mil,1.65,5,100,Eletrônicos,Mobile
+28,Feminino,Solteiro,Superior,Até 2 mil,8.14,4,50,Eletrônicos,Mobile
+34,Masculino,Solteiro,Médio,2 a 5 mil,13.24,7,200,Esportes,Desktop
+55,Feminino,Solteiro,Superior,5 a 10 mil,2.6,5,100,Eletrônicos,Mobile
+41,Feminino,Solteiro,Médio,2 a 5 mil,11.83,7,50,Casa,Desktop
+22,Masculino,Solteiro,Superior,Até 2 mil,1.94,6,100,Livros,Mobile
+69,Feminino,Solteiro,Pós-graduação,10 a 20 mil,3.24,4,200,Moda,Mobile
+51,Feminino,Viúvo,Médio,10 a 20 mil,1.28,8,200,Moda,Mobile
+23,Feminino,Casado,Fundamental,10 a 20 mil,5.11,4,100,Alimentos,Mobile
+39,Masculino,Solteiro,Fundamental,Até 2 mil,19.31,3,100,Esportes,Desktop
+28,Feminino,Casado,Superior,2 a 5 mil,4.63,5,1000,Livros,Mobile
+65,Feminino,Solteiro,Superior,Acima de 20 mil,2.21,10,100,Casa,Mobile
+33,Masculino,Divorciado,Superior,5 a 10 mil,5.22,6,100,Eletrônicos,Mobile
+50,Masculino,Casado,Médio,Até 2 mil,0.66,4,100,Casa,Mobile
+26,Outro,Solteiro,Médio,Até 2 mil,10.98,3,200,Moda,Desktop
+23,Feminino,Casado,Superior,2 a 5 mil,3.5,3,300,Alimentos,Mobile
+33,Masculino,Divorciado,Médio,10 a 20 mil,2.98,5,100,Eletrônicos,Mobile
+46,Feminino,Divorciado,Pós-graduação,2 a 5 mil,4.41,2,300,Eletrônicos,Desktop
+20,Masculino,Casado,Fundamental,2 a 5 mil,4.9,6,50,Esportes,Desktop
+37,Masculino,Casado,Superior,Até 2 mil,0.37,2,100,Alimentos,Desktop
+53,Masculino,Solteiro,Médio,5 a 10 mil,5.74,5,300,Moda,Tablet
+36,Masculino,Viúvo,Médio,10 a 20 mil,1.38,2,100,Moda,Mobile
+43,Masculino,Solteiro,Superior,2 a 5 mil,6.26,6,200,Esportes,Desktop
+20,Masculino,Divorciado,Superior,5 a 10 mil,8.64,3,100,Casa,Desktop
+36,Feminino,Casado,Pós-graduação,Acima de 20 mil,8.15,5,300,Moda,Mobile
+37,Masculino,Casado,Fundamental,Até 2 mil,4.02,2,50,Eletrônicos,Mobile
+49,Masculino,Casado,Fundamental,2 a 5 mil,3.67,6,500,Moda,Desktop
+24,Feminino,Solteiro,Superior,2 a 5 mil,0.77,6,50,Livros,Desktop
+69,Masculino,Solteiro,Superior,5 a 10 mil,7.47,7,500,Alimentos,Mobile
+58,Feminino,Solteiro,Médio,2 a 5 mil,1.58,6,100,Alimentos,Desktop
+50,Masculino,Solteiro,Fundamental,5 a 10 mil,3.43,6,300,Alimentos,Desktop
+57,Masculino,Casado,Fundamental,5 a 10 mil,1.67,4,100,Moda,Tablet
+56,Masculino,Solteiro,Pós-graduação,2 a 5 mil,0.72,4,500,Esportes,Mobile
+35,Masculino,Solteiro,Médio,10 a 20 mil,4.97,7,50,Alimentos,Desktop
+57,Masculino,Viúvo,Médio,2 a 5 mil,0.28,5,50,Eletrônicos,Desktop
+18,Masculino,Divorciado,Médio,Até 2 mil,6.9,5,200,Eletrônicos,Desktop
+28,Masculino,Divorciado,Médio,5 a 10 mil,1.91,8,50,Alimentos,Desktop
+45,Masculino,Viúvo,Fundamental,5 a 10 mil,0.0,4,50,Livros,Mobile
+42,Masculino,Solteiro,Superior,2 a 5 mil,3.58,2,500,Moda,Mobile
+67,Masculino,Solteiro,Fundamental,10 a 20 mil,0.24,3,1000,Esportes,Mobile
+40,Masculino,Casado,Superior,10 a 20 mil,1.62,4,100,Esportes,Tablet
+48,Feminino,Casado,Médio,2 a 5 mil,6.14,6,500,Moda,Mobile
+47,Feminino,Solteiro,Superior,Acima de 20 mil,0.32,9,200,Eletrônicos,Desktop
+59,Masculino,Casado,Pós-graduação,Até 2 mil,9.14,3,100,Eletrônicos,Mobile
+52,Feminino,Solteiro,Superior,Até 2 mil,0.02,5,300,Casa,Tablet
+24,Feminino,Solteiro,Superior,Até 2 mil,1.42,3,200,Eletrônicos,Mobile
+33,Masculino,Casado,Médio,10 a 20 mil,6.75,2,1000,Moda,Desktop
+43,Feminino,Casado,Médio,5 a 10 mil,1.9,4,100,Alimentos,Mobile
+65,Feminino,Casado,Superior,Até 2 mil,0.54,9,200,Casa,Mobile
+69,Masculino,Solteiro,Pós-graduação,2 a 5 mil,2.23,4,50,Eletrônicos,Tablet
+66,Masculino,Divorciado,Superior,5 a 10 mil,1.58,5,50,Moda,Desktop
+19,Feminino,Solteiro,Superior,Até 2 mil,9.25,8,50,Alimentos,Mobile
+18,Feminino,Solteiro,Superior,10 a 20 mil,1.88,8,1000,Alimentos,Mobile
+65,Masculino,Divorciado,Médio,10 a 20 mil,7.78,5,300,Esportes,Mobile
+29,Masculino,Viúvo,Fundamental,2 a 5 mil,11.12,3,300,Eletrônicos,Mobile
+22,Masculino,Divorciado,Superior,Acima de 20 mil,2.84,9,200,Esportes,Desktop
+54,Feminino,Casado,Pós-graduação,2 a 5 mil,12.04,2,100,Casa,Desktop
+49,Feminino,Casado,Médio,Acima de 20 mil,2.37,8,50,Alimentos,Desktop
+26,Masculino,Casado,Superior,5 a 10 mil,16.63,7,100,Casa,Tablet
+58,Masculino,Solteiro,Médio,5 a 10 mil,0.47,6,100,Moda,Desktop
+52,Feminino,Casado,Superior,Até 2 mil,5.81,9,300,Eletrônicos,Mobile
+36,Masculino,Solteiro,Fundamental,10 a 20 mil,3.4,3,200,Casa,Mobile
+65,Masculino,Solteiro,Médio,2 a 5 mil,2.45,6,50,Alimentos,Desktop
+33,Feminino,Casado,Superior,Até 2 mil,5.01,7,50,Casa,Mobile
+20,Feminino,Casado,Médio,Até 2 mil,6.08,7,50,Moda,Mobile
+37,Feminino,Solteiro,Superior,2 a 5 mil,0.02,5,100,Livros,Mobile
+41,Feminino,Solteiro,Superior,2 a 5 mil,0.91,5,500,Alimentos,Mobile
+50,Masculino,Casado,Pós-graduação,5 a 10 mil,6.24,1,200,Eletrônicos,Mobile
+41,Masculino,Solteiro,Médio,10 a 20 mil,5.49,7,300,Moda,Desktop
+69,Feminino,Divorciado,Médio,Até 2 mil,16.91,4,200,Esportes,Tablet
+28,Masculino,Casado,Médio,5 a 10 mil,7.16,7,100,Esportes,Desktop
+66,Masculino,Casado,Pós-graduação,Até 2 mil,15.06,5,50,Alimentos,Mobile
+25,Masculino,Casado,Pós-graduação,10 a 20 mil,6.06,5,500,Esportes,Desktop
+53,Masculino,Casado,Superior,10 a 20 mil,1.77,3,300,Moda,Tablet
+55,Masculino,Solteiro,Superior,2 a 5 mil,0.56,5,50,Moda,Mobile
+57,Masculino,Casado,Superior,5 a 10 mil,7.61,5,200,Esportes,Mobile
+37,Masculino,Casado,Superior,2 a 5 mil,5.17,4,200,Esportes,Desktop
+52,Masculino,Solteiro,Fundamental,2 a 5 mil,0.25,3,200,Casa,Mobile
+65,Feminino,Divorciado,Superior,10 a 20 mil,2.23,3,500,Esportes,Mobile
+42,Feminino,Casado,Fundamental,2 a 5 mil,15.71,5,200,Eletrônicos,Mobile
+52,Feminino,Casado,Superior,2 a 5 mil,3.47,10,200,Esportes,Desktop
+42,Feminino,Divorciado,Superior,2 a 5 mil,2.83,2,50,Moda,Tablet
+46,Feminino,Divorciado,Superior,10 a 20 mil,3.06,5,50,Eletrônicos,Mobile
+35,Masculino,Casado,Fundamental,2 a 5 mil,1.17,3,50,Moda,Desktop
+63,Feminino,Casado,Médio,Até 2 mil,2.3,4,50,Moda,Mobile
+35,Feminino,Casado,Médio,5 a 10 mil,2.31,6,300,Moda,Mobile
+19,Feminino,Casado,Médio,10 a 20 mil,0.27,3,300,Moda,Mobile
+52,Masculino,Casado,Fundamental,Até 2 mil,7.3,4,50,Eletrônicos,Desktop
+33,Masculino,Casado,Pós-graduação,Até 2 mil,2.69,4,300,Moda,Mobile
+58,Masculino,Solteiro,Superior,Até 2 mil,8.63,5,50,Alimentos,Mobile
+53,Masculino,Divorciado,Médio,2 a 5 mil,9.5,8,100,Moda,Mobile
+50,Feminino,Divorciado,Médio,2 a 5 mil,1.19,5,100,Moda,Mobile
+21,Feminino,Solteiro,Médio,5 a 10 mil,5.36,6,100,Casa,Mobile
+50,Masculino,Casado,Superior,5 a 10 mil,3.2,3,100,Esportes,Mobile
+31,Outro,Solteiro,Superior,5 a 10 mil,10.61,4,200,Esportes,Desktop
+38,Feminino,Solteiro,Pós-graduação,2 a 5 mil,1.22,5,100,Moda,Mobile
+65,Masculino,Casado,Médio,10 a 20 mil,5.66,6,1000,Casa,Mobile
+37,Masculino,Solteiro,Pós-graduação,2 a 5 mil,4.68,7,50,Eletrônicos,Desktop
+25,Masculino,Casado,Pós-graduação,Acima de 20 mil,1.75,5,50,Eletrônicos,Desktop
+24,Masculino,Casado,Médio,5 a 10 mil,0.73,2,50,Moda,Mobile
+20,Masculino,Casado,Pós-graduação,Até 2 mil,5.27,6,200,Esportes,Mobile
+34,Masculino,Solteiro,Fundamental,5 a 10 mil,6.71,4,50,Moda,Desktop
+50,Masculino,Solteiro,Superior,2 a 5 mil,1.9,2,300,Eletrônicos,Mobile
+65,Masculino,Casado,Médio,5 a 10 mil,5.18,4,200,Eletrônicos,Desktop
+29,Feminino,Viúvo,Pós-graduação,Até 2 mil,2.51,2,200,Esportes,Mobile
+68,Masculino,Casado,Pós-graduação,Até 2 mil,6.24,3,200,Casa,Tablet
+39,Feminino,Solteiro,Superior,10 a 20 mil,1.11,4,50,Moda,Mobile
+39,Masculino,Casado,Superior,Até 2 mil,11.05,7,50,Alimentos,Desktop
+63,Outro,Casado,Médio,10 a 20 mil,1.69,5,100,Alimentos,Mobile
+47,Masculino,Casado,Fundamental,2 a 5 mil,2.29,5,200,Casa,Desktop
+55,Masculino,Solteiro,Médio,5 a 10 mil,0.3,7,100,Moda,Mobile
+55,Outro,Casado,Médio,5 a 10 mil,0.59,9,50,Esportes,Mobile
+62,Feminino,Casado,Superior,2 a 5 mil,3.63,7,1000,Moda,Mobile
+68,Feminino,Viúvo,Médio,2 a 5 mil,1.56,6,50,Casa,Desktop
+25,Masculino,Solteiro,Pós-graduação,Até 2 mil,9.02,6,300,Eletrônicos,Tablet
+44,Masculino,Casado,Superior,Até 2 mil,0.07,9,300,Moda,Mobile
+44,Feminino,Divorciado,Superior,2 a 5 mil,2.38,2,100,Moda,Desktop
+51,Feminino,Solteiro,Fundamental,5 a 10 mil,2.06,3,50,Alimentos,Mobile
+38,Feminino,Divorciado,Pós-graduação,10 a 20 mil,0.1,9,50,Eletrônicos,Mobile
+47,Feminino,Casado,Pós-graduação,10 a 20 mil,0.66,3,200,Esportes,Mobile
+50,Masculino,Solteiro,Médio,5 a 10 mil,2.67,8,200,Moda,Mobile
+45,Feminino,Solteiro,Superior,5 a 10 mil,3.39,5,300,Casa,Mobile
+64,Masculino,Casado,Superior,5 a 10 mil,2.59,4,500,Esportes,Desktop
+50,Masculino,Solteiro,Médio,2 a 5 mil,3.79,9,200,Alimentos,Mobile
+22,Masculino,Casado,Superior,10 a 20 mil,4.52,2,50,Casa,Mobile
+65,Feminino,Solteiro,Médio,5 a 10 mil,0.05,5,100,Casa,Desktop
+36,Masculino,Casado,Fundamental,2 a 5 mil,3.12,10,300,Moda,Mobile
+21,Masculino,Solteiro,Médio,Até 2 mil,16.55,5,100,Esportes,Tablet
+52,Feminino,Divorciado,Fundamental,2 a 5 mil,3.66,4,50,Moda,Tablet
+66,Masculino,Viúvo,Fundamental,2 a 5 mil,5.66,7,300,Alimentos,Desktop
+34,Feminino,Viúvo,Fundamental,10 a 20 mil,1.87,3,100,Casa,Desktop
+61,Masculino,Casado,Pós-graduação,2 a 5 mil,7.44,6,500,Moda,Mobile
+45,Feminino,Solteiro,Superior,2 a 5 mil,7.41,3,200,Moda,Desktop
+47,Feminino,Casado,Pós-graduação,Acima de 20 mil,3.68,3,50,Alimentos,Tablet
+46,Masculino,Solteiro,Médio,Até 2 mil,18.65,4,500,Esportes,Desktop
+63,Masculino,Solteiro,Médio,2 a 5 mil,0.67,1,100,Livros,Desktop
+23,Masculino,Solteiro,Superior,Até 2 mil,0.09,2,100,Alimentos,Mobile
+52,Masculino,Casado,Médio,5 a 10 mil,7.35,4,100,Casa,Desktop
+58,Outro,Casado,Fundamental,10 a 20 mil,8.23,5,50,Livros,Mobile
+54,Masculino,Casado,Superior,2 a 5 mil,0.64,8,200,Eletrônicos,Mobile
+41,Feminino,Casado,Médio,10 a 20 mil,1.54,7,50,Moda,Desktop
+46,Masculino,Solteiro,Superior,2 a 5 mil,0.09,7,100,Casa,Desktop
+66,Feminino,Viúvo,Superior,10 a 20 mil,1.74,2,100,Esportes,Mobile
+63,Feminino,Casado,Médio,5 a 10 mil,7.42,6,300,Esportes,Desktop
+48,Feminino,Casado,Fundamental,10 a 20 mil,3.65,8,300,Moda,Mobile
+52,Masculino,Solteiro,Superior,Até 2 mil,2.14,6,50,Eletrônicos,Mobile
+50,Masculino,Casado,Médio,Acima de 20 mil,2.32,4,100,Moda,Mobile
+69,Masculino,Casado,Fundamental,5 a 10 mil,0.01,4,100,Moda,Tablet
+38,Feminino,Solteiro,Pós-graduação,2 a 5 mil,1.78,4,50,Moda,Tablet
+49,Feminino,Solteiro,Fundamental,10 a 20 mil,5.2,1,300,Esportes,Tablet
+40,Outro,Casado,Superior,2 a 5 mil,18.29,6,300,Eletrônicos,Desktop
+50,Masculino,Casado,Pós-graduação,10 a 20 mil,9.39,8,50,Esportes,Desktop
+20,Feminino,Solteiro,Médio,Até 2 mil,0.12,7,100,Moda,Desktop
+35,Feminino,Viúvo,Fundamental,5 a 10 mil,11.44,7,50,Alimentos,Mobile
+42,Masculino,Solteiro,Fundamental,2 a 5 mil,7.64,6,200,Eletrônicos,Tablet
+59,Masculino,Casado,Médio,Até 2 mil,7.58,6,50,Moda,Mobile
+48,Feminino,Divorciado,Fundamental,Até 2 mil,3.06,4,1000,Eletrônicos,Desktop
+20,Feminino,Casado,Superior,Até 2 mil,2.54,3,300,Livros,Tablet
+57,Feminino,Casado,Fundamental,2 a 5 mil,1.8,6,100,Esportes,Mobile
+63,Masculino,Solteiro,Superior,2 a 5 mil,0.34,3,200,Alimentos,Desktop
+41,Feminino,Solteiro,Pós-graduação,2 a 5 mil,1.3,10,500,Moda,Mobile
+67,Masculino,Viúvo,Superior,2 a 5 mil,1.42,5,200,Livros,Desktop
+49,Masculino,Casado,Superior,2 a 5 mil,3.31,6,50,Moda,Mobile
+64,Masculino,Divorciado,Médio,5 a 10 mil,6.88,6,100,Eletrônicos,Desktop
+39,Feminino,Solteiro,Superior,Até 2 mil,3.21,4,300,Alimentos,Mobile
+40,Feminino,Solteiro,Superior,10 a 20 mil,0.3,6,200,Livros,Mobile
+19,Feminino,Solteiro,Médio,10 a 20 mil,15.83,5,200,Eletrônicos,Mobile
+44,Masculino,Casado,Fundamental,5 a 10 mil,14.3,3,500,Moda,Mobile
+59,Feminino,Solteiro,Pós-graduação,2 a 5 mil,7.69,2,500,Livros,Mobile
+19,Masculino,Divorciado,Médio,10 a 20 mil,23.74,3,500,Eletrônicos,Mobile
+43,Feminino,Casado,Médio,Até 2 mil,3.93,2,50,Eletrônicos,Tablet
+34,Masculino,Viúvo,Médio,Até 2 mil,16.45,8,200,Alimentos,Desktop
+57,Masculino,Solteiro,Médio,Até 2 mil,0.39,7,300,Esportes,Mobile
+50,Masculino,Divorciado,Superior,5 a 10 mil,2.28,4,300,Alimentos,Desktop
+26,Masculino,Casado,Superior,Até 2 mil,1.28,3,200,Livros,Desktop
+60,Feminino,Casado,Superior,2 a 5 mil,1.09,3,50,Casa,Mobile
+65,Feminino,Casado,Fundamental,Acima de 20 mil,0.76,6,300,Eletrônicos,Mobile
+56,Masculino,Casado,Médio,10 a 20 mil,4.87,5,300,Livros,Desktop
+46,Feminino,Casado,Médio,2 a 5 mil,7.6,1,50,Moda,Mobile
+59,Masculino,Solteiro,Fundamental,Até 2 mil,4.32,8,200,Moda,Mobile
+43,Feminino,Solteiro,Médio,10 a 20 mil,0.79,9,50,Alimentos,Tablet
+52,Feminino,Divorciado,Superior,2 a 5 mil,8.33,4,100,Moda,Desktop
+67,Feminino,Casado,Fundamental,Até 2 mil,5.05,7,50,Eletrônicos,Tablet
+42,Masculino,Casado,Superior,Até 2 mil,2.46,3,100,Eletrônicos,Desktop
+41,Feminino,Casado,Médio,10 a 20 mil,5.61,7,200,Moda,Mobile
+30,Feminino,Solteiro,Fundamental,5 a 10 mil,1.5,5,200,Esportes,Desktop
+24,Masculino,Solteiro,Médio,10 a 20 mil,2.12,6,200,Alimentos,Desktop
+53,Masculino,Casado,Pós-graduação,10 a 20 mil,12.47,8,300,Livros,Mobile
+62,Feminino,Casado,Superior,2 a 5 mil,1.72,2,100,Moda,Mobile
+37,Feminino,Solteiro,Pós-graduação,2 a 5 mil,3.17,4,50,Moda,Desktop
+18,Feminino,Casado,Médio,2 a 5 mil,11.04,9,500,Eletrônicos,Desktop
+25,Feminino,Solteiro,Fundamental,2 a 5 mil,6.15,4,50,Eletrônicos,Mobile
+63,Feminino,Casado,Superior,2 a 5 mil,0.32,4,1000,Moda,Desktop
+33,Masculino,Solteiro,Médio,5 a 10 mil,0.8,3,300,Esportes,Mobile
+31,Masculino,Casado,Superior,5 a 10 mil,0.04,4,200,Livros,Desktop
+29,Masculino,Solteiro,Fundamental,10 a 20 mil,4.98,4,1000,Livros,Desktop
+68,Feminino,Casado,Médio,2 a 5 mil,2.97,6,50,Moda,Desktop
+40,Masculino,Solteiro,Médio,5 a 10 mil,0.72,7,100,Esportes,Mobile
+32,Feminino,Solteiro,Médio,5 a 10 mil,15.84,3,200,Moda,Desktop
+45,Feminino,Solteiro,Superior,2 a 5 mil,3.77,6,100,Eletrônicos,Desktop
+51,Feminino,Casado,Médio,5 a 10 mil,1.38,8,500,Esportes,Tablet
+19,Masculino,Casado,Médio,Até 2 mil,3.47,7,50,Casa,Mobile
+49,Feminino,Solteiro,Médio,2 a 5 mil,5.69,3,200,Eletrônicos,Desktop
+40,Masculino,Casado,Médio,Até 2 mil,0.4,4,200,Moda,Mobile
+39,Feminino,Divorciado,Superior,2 a 5 mil,1.61,6,200,Moda,Mobile
+68,Masculino,Casado,Pós-graduação,2 a 5 mil,8.22,8,100,Casa,Desktop
+42,Masculino,Solteiro,Pós-graduação,5 a 10 mil,3.08,3,100,Alimentos,Desktop
+39,Feminino,Casado,Superior,Acima de 20 mil,3.95,4,300,Livros,Mobile
+39,Masculino,Solteiro,Médio,5 a 10 mil,2.84,3,50,Eletrônicos,Mobile
+66,Masculino,Solteiro,Superior,5 a 10 mil,0.22,8,300,Moda,Mobile
+69,Feminino,Viúvo,Médio,2 a 5 mil,0.91,1,200,Alimentos,Desktop
+59,Feminino,Solteiro,Médio,5 a 10 mil,2.95,3,300,Alimentos,Desktop
+23,Feminino,Casado,Superior,Até 2 mil,1.17,7,300,Moda,Mobile
+32,Feminino,Casado,Fundamental,2 a 5 mil,0.26,5,100,Casa,Desktop
+60,Feminino,Casado,Pós-graduação,2 a 5 mil,9.28,9,200,Esportes,Mobile
+54,Masculino,Casado,Médio,2 a 5 mil,19.87,5,500,Livros,Mobile
+50,Masculino,Solteiro,Superior,Até 2 mil,7.88,4,100,Esportes,Desktop
+25,Masculino,Solteiro,Superior,Até 2 mil,9.61,5,1000,Esportes,Tablet
+61,Feminino,Casado,Pós-graduação,2 a 5 mil,1.39,7,200,Alimentos,Mobile
+61,Feminino,Solteiro,Superior,Acima de 20 mil,16.17,3,50,Esportes,Mobile
+22,Masculino,Solteiro,Superior,2 a 5 mil,1.1,6,100,Moda,Desktop
+56,Masculino,Solteiro,Fundamental,2 a 5 mil,15.12,7,1000,Moda,Desktop
+21,Feminino,Solteiro,Superior,Até 2 mil,26.31,4,100,Moda,Mobile
+23,Masculino,Solteiro,Médio,5 a 10 mil,6.22,4,500,Alimentos,Desktop
+62,Feminino,Solteiro,Superior,2 a 5 mil,19.85,4,500,Moda,Tablet
+49,Feminino,Casado,Superior,Até 2 mil,4.21,3,100,Livros,Desktop
+69,Feminino,Casado,Superior,2 a 5 mil,1.5,4,50,Moda,Mobile
+47,Masculino,Casado,Fundamental,Até 2 mil,2.87,2,300,Eletrônicos,Desktop
+64,Feminino,Solteiro,Fundamental,Até 2 mil,4.5,7,100,Alimentos,Mobile
+52,Feminino,Solteiro,Superior,Até 2 mil,0.38,6,300,Eletrônicos,Desktop
+57,Feminino,Solteiro,Fundamental,Até 2 mil,4.87,7,100,Eletrônicos,Mobile
+69,Feminino,Casado,Fundamental,Até 2 mil,19.86,5,200,Moda,Desktop
+33,Feminino,Casado,Fundamental,2 a 5 mil,1.05,4,300,Alimentos,Mobile
+30,Feminino,Solteiro,Pós-graduação,10 a 20 mil,7.87,5,100,Moda,Desktop
+67,Masculino,Divorciado,Superior,2 a 5 mil,11.92,4,100,Esportes,Tablet
+59,Feminino,Solteiro,Médio,2 a 5 mil,14.39,7,100,Casa,Mobile
+47,Feminino,Casado,Médio,2 a 5 mil,16.11,5,100,Moda,Desktop
+36,Masculino,Casado,Médio,10 a 20 mil,3.69,6,200,Moda,Mobile
+34,Feminino,Divorciado,Superior,2 a 5 mil,18.93,5,300,Moda,Desktop
+36,Feminino,Casado,Superior,Até 2 mil,7.08,2,100,Esportes,Tablet
+45,Feminino,Casado,Médio,5 a 10 mil,0.88,4,200,Eletrônicos,Mobile
+43,Masculino,Solteiro,Médio,Até 2 mil,3.24,4,200,Eletrônicos,Desktop
+54,Masculino,Casado,Fundamental,2 a 5 mil,6.34,6,100,Esportes,Desktop
+43,Outro,Solteiro,Superior,2 a 5 mil,1.42,11,100,Alimentos,Desktop
+40,Feminino,Divorciado,Superior,10 a 20 mil,5.12,6,500,Eletrônicos,Tablet
+26,Masculino,Casado,Médio,2 a 5 mil,5.49,8,300,Moda,Desktop
+29,Feminino,Casado,Fundamental,5 a 10 mil,0.89,5,200,Livros,Mobile
+18,Feminino,Casado,Fundamental,Acima de 20 mil,4.16,3,200,Esportes,Mobile
+18,Feminino,Casado,Pós-graduação,Até 2 mil,7.38,5,50,Casa,Tablet
+64,Feminino,Casado,Médio,2 a 5 mil,3.45,1,200,Alimentos,Desktop
+51,Masculino,Casado,Superior,2 a 5 mil,0.06,8,200,Alimentos,Mobile
+49,Masculino,Solteiro,Superior,2 a 5 mil,0.05,6,200,Livros,Mobile
+65,Masculino,Solteiro,Médio,2 a 5 mil,2.21,4,100,Livros,Mobile
+42,Feminino,Solteiro,Médio,10 a 20 mil,13.03,7,50,Moda,Desktop
+57,Masculino,Solteiro,Fundamental,5 a 10 mil,1.3,1,50,Esportes,Desktop
+62,Masculino,Divorciado,Superior,5 a 10 mil,5.03,7,1000,Eletrônicos,Desktop
+18,Masculino,Solteiro,Superior,2 a 5 mil,1.26,3,100,Moda,Mobile
