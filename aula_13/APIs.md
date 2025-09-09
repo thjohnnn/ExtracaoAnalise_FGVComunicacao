@@ -26,7 +26,7 @@ print(books)
 
 ---
 
-### Dolar API
+### 1 - Dolar API
 
 url_base: https://br.dolarapi.com/
 
@@ -41,7 +41,7 @@ GET /v1/cotacoes/uyu
 
 ---
 
-### Fatos inúteis
+### 2 - Fatos inúteis
 
 url_base: https://uselessfacts.jsph.pl/api/v2/
 
@@ -52,7 +52,7 @@ GET /facts/random
 
 ---
 
-### Game of Thrones
+### 3 - Game of Thrones
 
 url_base: https://www.anapioficeandfire.com/api/
 
@@ -64,7 +64,7 @@ GET /houses
 
 ---
 
-### Random Fake User
+### 4 - Random Fake User
 
 url_base: https://randomuser.me/
 
@@ -74,13 +74,23 @@ GET /api
 
 ---
 
-###  Outro Fake Generator
+### 5 - Outro Fake Generator
 
 url_base: https://fakerapi.it/api/v2/
 
 endpoints:
 
-GET persons
+GET /persons
 PARAMETERS: _locale=pt_BR
 
 Como usar: url_base + persons?_locale=pt_BR --> ATENçÃO AO ? 
+
+### 6 - Brasil API
+
+url_base: https://brasilapi.com.br/api
+
+endpoints:
+
+GET /cep/v2/{cep}
+GET /ddd/v2/{ddd}
+
